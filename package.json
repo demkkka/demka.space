@@ -1,0 +1,17 @@
+{
+  "name": "demka.space",
+  "version": "0.1.0",
+  "description": "personal site",
+  "main": "server.js",
+  "scripts": {
+    "start": "npx nodemon server.js"
+  },
+  "author": "Dmitry Abramov",
+  "dependencies": {
+    "express": "^4.16.3",
+    "pug": "^2.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
